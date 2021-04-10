@@ -1,0 +1,14 @@
+a{
+    font-size: 100px;
+    text-align: center;
+}
+b{
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+}
+.myHeader 
+{
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
